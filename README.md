@@ -12,8 +12,6 @@ And I've already been an intern at the Scientific Police, where I could learn to
 
 You can find me on:
 📩  pallomacardoso64@gmail.com
-📩  linkedin.com/in/paloma-cardoso
-
 
 <!---
 palomacardoso/palomacardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
