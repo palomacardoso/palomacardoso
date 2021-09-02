@@ -6,7 +6,7 @@ And I've already been an intern at the Scientific Police, where I could learn to
 
 👀 I’m interested in share my projects and knowledges with the community and to be able to help and being helped with the codes 😀
 
-🌱 I’m currently learning React Native and Git. But to be honest, I have a Check-List lol
+🌱 I’m currently learning ReactJS. But to be honest, I have a Check-List lol
 
 💞️ I’m looking to collaborate on frontend projects for right now.
 
