@@ -8,7 +8,7 @@ And I've already been an intern at the Scientific Police, where I could learn to
 
 🌱 I’m currently learning ReactJS. But to be honest, I have a Check-List lol
 
-💞️ I’m looking to collaborate on frontend projects for right now.
+💞️ I’m looking to collaborate on frontend projects for right now!
 
 You can find me on:
 📩  pallomacardoso64@gmail.com
