@@ -17,3 +17,5 @@ You can find me on:
 palomacardoso/palomacardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Snake animation](https://github.com/palomacardoso/palomacardoso/blob/output/github-contribuition-grid-snake.svg)
