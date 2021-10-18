@@ -18,4 +18,4 @@ palomacardoso/palomacardoso is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-(https://github.com/palomacardoso/palomacardoso/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/palomacardoso/palomacardoso/blob/output/github-contribution-grid-snake.svg)
