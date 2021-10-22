@@ -1,4 +1,4 @@
-🙋 Hello World, I’m Paloma!
+🙋 Hello World, I’m Paloma.
 
 I currently work as a Programming Teacher for children at Byjus Future School, where I teach game creation using Javascript.
 Afterwards I interned as a HelpDesk at TVM Informática, where I provided Technical Support directly to users with network problems.
