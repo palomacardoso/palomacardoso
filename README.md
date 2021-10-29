@@ -1,6 +1,6 @@
 🙋 Hello World, I’m Paloma.
 
-I currently work as a Programming Teacher for children at Byjus Future School, where I teach game creation using Javascript.
+I currently work as a Programming Teacher for children at Byjus Future School, where I teach game creation using Javascript and Lua.
 Afterwards I interned as a HelpDesk at TVM Informática, where I provided Technical Support directly to users with network problems.
 And I've already been an intern at the Scientific Police, where I could learn to develop criminal reports and carry out expertise in electronic and ballistic equipment.
 
